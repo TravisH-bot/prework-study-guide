@@ -45,3 +45,12 @@ p {
     border: 5px solid gray;
     box-shadow: 5px 10px #aed6f1 ;
 }
+
+.code {
+    background-color: lightgray;
+    color: crimson;
+    padding-left: 4px;
+    padding-right: 4px;
+    font-family: courier, monospace;
+    font-size: 90%;
+}
