@@ -9,17 +9,11 @@ The Prework Study Guide Webpage was designed around teaching the basics of HTML,
 - Through this website, I will be able to store notes on the topics we have covered so far in the prework as reference for future use in the coding bootcamp and beyond.
 - So far, through the prework course, I have brushed up on my HTML, CSS, Git, and JavaScript skills. While already having some coding experience beyond the prework, it's been a while since I've coded and I have learned some proper fundamentals that were missed out on. The information on Git and GitHub has been especially informative. 
 
-## Installation
-
-N/A
-
 ## Usage
 
 To use this Prework Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
 
-## Credits
-
-N/A
+![Screenshot 2023-05-19 at 11-10-16 Prework Study Guide](https://github.com/TravisH-bot/prework-study-guide/assets/79767820/d44cf34c-050d-4f2e-8ed5-26a657a40c4a)
 
 ## License
 
